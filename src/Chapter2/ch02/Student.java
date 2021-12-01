@@ -1,4 +1,4 @@
-package Chapter2.ch01;
+package Chapter2.ch02;
 
 /**
  * public : 공용이다. 어디서든지 접근 가능
