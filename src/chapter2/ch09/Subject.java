@@ -1,4 +1,4 @@
-package Chapter2.ch09;
+package chapter2.ch09;
 
 public class Subject {
 

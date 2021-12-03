@@ -1,4 +1,4 @@
-package Chapter2.ch03;
+package chapter2.ch03;
 
 public class FunctionTest {
 
