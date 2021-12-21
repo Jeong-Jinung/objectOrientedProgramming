@@ -23,3 +23,4 @@ doc/**/*.pdf
 
 # ignore out folder
 out
+.idea
