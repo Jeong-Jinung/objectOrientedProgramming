@@ -1,0 +1,17 @@
+package chapter5.ch08;
+
+public class GenericPrinterTest {
+
+    public static void main(String[] args) {
+
+        Powder powder = new Powder();
+        GenericPrinter<Powder> powderPrinter = new GenericPrinter<>(); // 다이아몬드 연산자
+        powderPrinter.setMaterial(powder);
+
+        Powder p = powderPrinter.getMaterial();
+        System.out.println(powderPrinter.toString());
+
+
+
+    }
+}
